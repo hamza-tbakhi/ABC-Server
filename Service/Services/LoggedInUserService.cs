@@ -18,7 +18,6 @@ namespace Service.Services
             _httpContextAccessor = httpContextAccessor;
         }
 
-
         public int GetUserId()
         {
             var userId = _httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value;
