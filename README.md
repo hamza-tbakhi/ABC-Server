@@ -12,14 +12,14 @@ Please follow the below steps to run the application :
 
 Application Users :
 
-1) Admin 
-   UserName : Admin
+1) Admin,
+   UserName : Admin,
    Password : 123456789
    
-2) Client 1 
-   UserName : Client1
+2) Client 1,
+   UserName : Client1,
    Password : P@ssw0rd.123
    
-3) Client 2 
-   UserName : Client2
+3) Client 2,
+   UserName : Client2,
    Password : P@ssw0rd.123
